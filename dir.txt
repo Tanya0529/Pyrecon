@@ -1,0 +1,12 @@
+ftp
+favicon.ico
+test
+staging
+crossdomain.xml 
+CVS
+CVS/Entries
+robots.txt
+t
+sitemap.xml
+r
+.git

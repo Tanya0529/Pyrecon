@@ -1,0 +1,10 @@
+mail
+mail2
+www
+ns2
+ns1
+blog
+localhost
+m
+test
+confidential
